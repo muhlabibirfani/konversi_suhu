@@ -701,7 +701,7 @@ class _TemperatureConverterPageState extends State<TemperatureConverterPage>
       ),
     );
   }
-
+// buat referensi untuk konversi suhu secara langsung:D
   Widget _buildQuickReference() {
     final references = [
       {'name': 'Air Membeku', 'celsius': 0.0, 'emoji': '🧊'},
